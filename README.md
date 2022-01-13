@@ -7,6 +7,8 @@
 ***
 
 <div align="center"> 
+  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ%20IDEA&logoColor=white&color=2bbc8a) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danshan&row=2&column=5&margin-w=15&margin-h=15&no-bg=true&theme=onedark)](https://github.com/danshan)
 
